@@ -1,12 +1,12 @@
-1     :  Xoay banh xe nguoc chieu kim dong ho /n
-2     :  Xoay banh xe cung chieu kim dong ho /n
-a, A  :  Bat/tat che do xoay banh xe tu dong /n
-b, B  :  Chuyen huong quay cua banh xe /n
-W, w  :  Chuyen doi qua lai giua che do khung day va to mau /n
-V, v  :  Chuyen doi qua lai giua view 3D va 2D /n
-'+'     : Tang khoang cach camera /n
-'-'     : Giam khoang cach camera /n
-up arrow  : Tang chieu cao camera /n
-down arrow: Giam chieu cao camera /n
-<-        : Quay camera theo chieu kim dong ho /n
-->        : Quay camera nguoc chieu kim dong ho
+- **1** : Xoay bánh xe ngược chiều kim đồng hồ
+- **2** : Xoay bánh xe cùng chiều kim đồng hồ
+- **a, A** : Bật/tắt chế độ xoay bánh xe tự động
+- **b, B** : Chuyển hướng quay của bánh xe
+- **W, w** : Chuyển đổi qua lại giữa chế độ khung dây và tô màu
+- **V, v** : Chuyển đổi qua lại giữa view 3D và 2D
+- **+** : Tăng khoảng cách camera
+- **-** : Giảm khoảng cách camera
+- **↑ (up arrow)** : Tăng chiều cao camera
+- **↓ (down arrow)** : Giảm chiều cao camera
+- **←** : Quay camera theo chiều kim đồng hồ
+- **→** : Quay camera ngược chiều kim đồng hồ
